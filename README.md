@@ -1,4 +1,4 @@
-# FDIA Detector Agent
+# FDIA Detector LLM Agent
 
 This repository contains a reinforcement learning-based False Data Injection Attack (FDIA) detection agent for Home Energy Management System (HEMS) data, utilizing GAT-LSTM and RL algorithms. The agent integrates graph neural network methodologies within a LangGraph-orchestrated workflow.
 
