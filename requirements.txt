@@ -1,0 +1,13 @@
+pandas
+torch
+langchain-core
+langgraph
+langchain-openai
+numpy
+joblib
+ipython
+scikit-learn
+tqdm
+tenacity
+pyarrow
+fastparquet
